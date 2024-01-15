@@ -1,2 +1,2 @@
 # PrecDiffFit
- Fits electron precession-diffration patterns
+ Fits electron precession-diffraction patterns
